@@ -1,5 +1,7 @@
 # **AtliQ-Hardwares-Ad-Hoc-Analysis**
 
+💻 [**Report** ](https://github.com/sherinjthomas29/AtliQ-Hardwares-Ad-Hoc-Analysis-SQL-Power-BI/blob/main/Ad-hoc%20Analysis.pdf)
+
 **📊 Project Overview**
 SQL-based business intelligence analysis solving 10 ad-hoc requests for AtliQ Hardware, a leading computer hardware manufacturer operating across India and 26 global markets.
 ________________________________________
