@@ -1,0 +1,21 @@
+atliq-hardware-analysis/
+│
+├── sql_queries/
+│   ├── request_01_market_list.sql
+│   ├── request_02_product_counts.sql
+│   ├── request_03_segment_growth.sql
+│   ├── request_04_cost_analysis.sql
+│   ├── request_05_top_customers.sql
+│   ├── request_06_gross_sales.sql
+│   ├── request_07_quarterly_sales.sql
+│   ├── request_08_channel_contribution.sql
+│   ├── request_09_top_products.sql
+│   └── request_10_division_analysis.sql
+│
+├── insights/
+│   └── ad_hoc_analysis.pdf
+│
+├── visuals/
+│   └── dashboard_screenshots/
+│
+└── README.md
