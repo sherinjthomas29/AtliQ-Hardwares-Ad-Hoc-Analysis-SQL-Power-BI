@@ -3,7 +3,7 @@
 **📊 Project Overview**
 SQL-based business intelligence analysis solving 10 ad-hoc requests for AtliQ Hardware, a leading computer hardware manufacturer operating across India and 26 global markets.
 ________________________________________
-**🎯 Project Description**
+## **🎯 Project Description**
 
 **Situation**
 AtliQ Hardware's leadership lacked timely insights for quick, data-driven business decisions despite operating globally across diverse markets and customer segments.
@@ -25,7 +25,7 @@ Uncovered critical insights including:
 --> 42% revenue decline trend in 2021 requiring immediate action
 --> Strategic expansion opportunities in Networking & Storage segments
 ________________________________________
-**🔍 Key Insights**
+## **🔍 Key Insights**
 
 **Geographic Reach**: AtliQ Exclusive operates in 8 APAC markets (India, Australia, Bangladesh, Indonesia, Japan, New Zealand, Philippines, South Korea)
 **Product Growth**: 36% increase in unique products (FY2020→FY2021), led by Accessories segment (+34 products)
@@ -34,14 +34,14 @@ ________________________________________
 **Discount Strategy**: Flipkart receives highest discounts (30.83%), Amazon lowest (29.33%)
 **Seasonal Impact**: Q1 2020 peaked at 7M units; Q3 dropped 70% to 2.1M units
 ________________________________________
-**🛠️ Tools Used**
+## **🛠️ Tools Used**
 
 **Database**: MySQL
 **Analysis**: SQL (Joins, Aggregations, Window Functions, CTEs)
 **Visualization**: Power BI / Excel
 **Documentation**: PDF Report Generation
 ________________________________________
-**📈 Key Recommendations**
+## **📈 Key Recommendations**
 
 **Diversify Channels**: Reduce retailer dependency from 73% to 50-55%
 **Address Revenue Decline**: Investigate 2021 sales drop and implement recovery strategies
@@ -50,7 +50,7 @@ ________________________________________
 **Optimize Seasonality**: Prevent 70% quarterly drops through demand forecasting
 **Strengthen E-commerce**: Build D2C capabilities and renegotiate partnership terms
 ________________________________________
-**💡 Business Impact**
+## **💡 Business Impact**
 This analysis addresses AtliQ's core problem of insufficient insights by providing data-driven recommendations that enable leadership to:
 
 Identify revenue vulnerabilities and concentration risks
@@ -58,7 +58,7 @@ Prioritize product development in underserved segments
 Optimize channel mix and discount strategies
 Make faster, evidence-based strategic decisions
 ________________________________________
-**🚀 Skills Demonstrated**
+## **🚀 Skills Demonstrated**
 
 Complex SQL querying and database analysis
 Business intelligence and data interpretation
